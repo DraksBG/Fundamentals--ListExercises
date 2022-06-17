@@ -1,0 +1,13 @@
+C:\Users\dimit\source\repos\Lists - Exercise\T09. Pokemon Don't Go\bin\Debug\netcoreapp3.1\T09. Pokemon Don't Go.exe
+C:\Users\dimit\source\repos\Lists - Exercise\T09. Pokemon Don't Go\bin\Debug\netcoreapp3.1\T09. Pokemon Don't Go.deps.json
+C:\Users\dimit\source\repos\Lists - Exercise\T09. Pokemon Don't Go\bin\Debug\netcoreapp3.1\T09. Pokemon Don't Go.runtimeconfig.json
+C:\Users\dimit\source\repos\Lists - Exercise\T09. Pokemon Don't Go\bin\Debug\netcoreapp3.1\T09. Pokemon Don't Go.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\Lists - Exercise\T09. Pokemon Don't Go\bin\Debug\netcoreapp3.1\T09. Pokemon Don't Go.dll
+C:\Users\dimit\source\repos\Lists - Exercise\T09. Pokemon Don't Go\bin\Debug\netcoreapp3.1\T09. Pokemon Don't Go.pdb
+C:\Users\dimit\source\repos\Lists - Exercise\T09. Pokemon Don't Go\obj\Debug\netcoreapp3.1\T09. Pokemon Don't Go.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\Lists - Exercise\T09. Pokemon Don't Go\obj\Debug\netcoreapp3.1\T09. Pokemon Don't Go.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\Lists - Exercise\T09. Pokemon Don't Go\obj\Debug\netcoreapp3.1\T09. Pokemon Don't Go.AssemblyInfo.cs
+C:\Users\dimit\source\repos\Lists - Exercise\T09. Pokemon Don't Go\obj\Debug\netcoreapp3.1\T09. Pokemon Don't Go.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Lists - Exercise\T09. Pokemon Don't Go\obj\Debug\netcoreapp3.1\T09. Pokemon Don't Go.dll
+C:\Users\dimit\source\repos\Lists - Exercise\T09. Pokemon Don't Go\obj\Debug\netcoreapp3.1\T09. Pokemon Don't Go.pdb
+C:\Users\dimit\source\repos\Lists - Exercise\T09. Pokemon Don't Go\obj\Debug\netcoreapp3.1\T09. Pokemon Don't Go.genruntimeconfig.cache

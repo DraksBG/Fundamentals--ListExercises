@@ -1,0 +1,14 @@
+C:\Users\dimit\source\repos\Lists - Exercise\T03. House Party\bin\Debug\netcoreapp3.1\T03. House Party.exe
+C:\Users\dimit\source\repos\Lists - Exercise\T03. House Party\bin\Debug\netcoreapp3.1\T03. House Party.deps.json
+C:\Users\dimit\source\repos\Lists - Exercise\T03. House Party\bin\Debug\netcoreapp3.1\T03. House Party.runtimeconfig.json
+C:\Users\dimit\source\repos\Lists - Exercise\T03. House Party\bin\Debug\netcoreapp3.1\T03. House Party.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\Lists - Exercise\T03. House Party\bin\Debug\netcoreapp3.1\T03. House Party.dll
+C:\Users\dimit\source\repos\Lists - Exercise\T03. House Party\bin\Debug\netcoreapp3.1\T03. House Party.pdb
+C:\Users\dimit\source\repos\Lists - Exercise\T03. House Party\obj\Debug\netcoreapp3.1\T03. House Party.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\Lists - Exercise\T03. House Party\obj\Debug\netcoreapp3.1\T03. House Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\Lists - Exercise\T03. House Party\obj\Debug\netcoreapp3.1\T03. House Party.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\Lists - Exercise\T03. House Party\obj\Debug\netcoreapp3.1\T03. House Party.AssemblyInfo.cs
+C:\Users\dimit\source\repos\Lists - Exercise\T03. House Party\obj\Debug\netcoreapp3.1\T03. House Party.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Lists - Exercise\T03. House Party\obj\Debug\netcoreapp3.1\T03. House Party.dll
+C:\Users\dimit\source\repos\Lists - Exercise\T03. House Party\obj\Debug\netcoreapp3.1\T03. House Party.pdb
+C:\Users\dimit\source\repos\Lists - Exercise\T03. House Party\obj\Debug\netcoreapp3.1\T03. House Party.genruntimeconfig.cache

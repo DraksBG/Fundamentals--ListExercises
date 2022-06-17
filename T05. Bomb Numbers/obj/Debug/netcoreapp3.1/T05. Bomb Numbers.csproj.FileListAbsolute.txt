@@ -1,0 +1,13 @@
+C:\Users\dimit\source\repos\Lists - Exercise\T05. Bomb Numbers\bin\Debug\netcoreapp3.1\T05. Bomb Numbers.exe
+C:\Users\dimit\source\repos\Lists - Exercise\T05. Bomb Numbers\bin\Debug\netcoreapp3.1\T05. Bomb Numbers.deps.json
+C:\Users\dimit\source\repos\Lists - Exercise\T05. Bomb Numbers\bin\Debug\netcoreapp3.1\T05. Bomb Numbers.runtimeconfig.json
+C:\Users\dimit\source\repos\Lists - Exercise\T05. Bomb Numbers\bin\Debug\netcoreapp3.1\T05. Bomb Numbers.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\Lists - Exercise\T05. Bomb Numbers\bin\Debug\netcoreapp3.1\T05. Bomb Numbers.dll
+C:\Users\dimit\source\repos\Lists - Exercise\T05. Bomb Numbers\bin\Debug\netcoreapp3.1\T05. Bomb Numbers.pdb
+C:\Users\dimit\source\repos\Lists - Exercise\T05. Bomb Numbers\obj\Debug\netcoreapp3.1\T05. Bomb Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\Lists - Exercise\T05. Bomb Numbers\obj\Debug\netcoreapp3.1\T05. Bomb Numbers.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\Lists - Exercise\T05. Bomb Numbers\obj\Debug\netcoreapp3.1\T05. Bomb Numbers.AssemblyInfo.cs
+C:\Users\dimit\source\repos\Lists - Exercise\T05. Bomb Numbers\obj\Debug\netcoreapp3.1\T05. Bomb Numbers.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Lists - Exercise\T05. Bomb Numbers\obj\Debug\netcoreapp3.1\T05. Bomb Numbers.dll
+C:\Users\dimit\source\repos\Lists - Exercise\T05. Bomb Numbers\obj\Debug\netcoreapp3.1\T05. Bomb Numbers.pdb
+C:\Users\dimit\source\repos\Lists - Exercise\T05. Bomb Numbers\obj\Debug\netcoreapp3.1\T05. Bomb Numbers.genruntimeconfig.cache

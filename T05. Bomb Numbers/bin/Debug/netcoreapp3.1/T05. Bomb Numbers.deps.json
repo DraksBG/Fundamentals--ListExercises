@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "T05. Bomb Numbers/1.0.0": {
+        "runtime": {
+          "T05. Bomb Numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "T05. Bomb Numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

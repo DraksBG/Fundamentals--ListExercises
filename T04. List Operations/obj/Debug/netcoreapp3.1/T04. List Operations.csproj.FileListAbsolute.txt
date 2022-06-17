@@ -1,0 +1,14 @@
+C:\Users\dimit\source\repos\Lists - Exercise\T04. List Operations\bin\Debug\netcoreapp3.1\T04. List Operations.exe
+C:\Users\dimit\source\repos\Lists - Exercise\T04. List Operations\bin\Debug\netcoreapp3.1\T04. List Operations.deps.json
+C:\Users\dimit\source\repos\Lists - Exercise\T04. List Operations\bin\Debug\netcoreapp3.1\T04. List Operations.runtimeconfig.json
+C:\Users\dimit\source\repos\Lists - Exercise\T04. List Operations\bin\Debug\netcoreapp3.1\T04. List Operations.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\Lists - Exercise\T04. List Operations\bin\Debug\netcoreapp3.1\T04. List Operations.dll
+C:\Users\dimit\source\repos\Lists - Exercise\T04. List Operations\bin\Debug\netcoreapp3.1\T04. List Operations.pdb
+C:\Users\dimit\source\repos\Lists - Exercise\T04. List Operations\obj\Debug\netcoreapp3.1\T04. List Operations.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\Lists - Exercise\T04. List Operations\obj\Debug\netcoreapp3.1\T04. List Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\Lists - Exercise\T04. List Operations\obj\Debug\netcoreapp3.1\T04. List Operations.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\Lists - Exercise\T04. List Operations\obj\Debug\netcoreapp3.1\T04. List Operations.AssemblyInfo.cs
+C:\Users\dimit\source\repos\Lists - Exercise\T04. List Operations\obj\Debug\netcoreapp3.1\T04. List Operations.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Lists - Exercise\T04. List Operations\obj\Debug\netcoreapp3.1\T04. List Operations.dll
+C:\Users\dimit\source\repos\Lists - Exercise\T04. List Operations\obj\Debug\netcoreapp3.1\T04. List Operations.pdb
+C:\Users\dimit\source\repos\Lists - Exercise\T04. List Operations\obj\Debug\netcoreapp3.1\T04. List Operations.genruntimeconfig.cache
